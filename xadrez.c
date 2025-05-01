@@ -16,7 +16,6 @@ int main() {
         printf("esquerda\n");
     }
 
-   
     // Movimento da TORRE
     // estrutura while
     printf("Movimentaçao da Torre:\n");
@@ -26,7 +25,6 @@ int main() {
         printf("Direita\n");
         t++;
     }
-
 
 
     // Movimento da RAINHA
